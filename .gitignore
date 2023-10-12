@@ -4,8 +4,10 @@ images
 raw_data
 Pipfile
 Pipfile.lock
-.ipnyb_checkpoints
-
+.ipynb_checkpoints
+notebooks/ .ipynb_checkpoints
+*/DS_Store
+*/.ipynb_checkpoints
 
 data
 .DS_Store
