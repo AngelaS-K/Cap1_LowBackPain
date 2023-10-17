@@ -5,7 +5,7 @@ raw_data
 Pipfile
 Pipfile.lock
 .ipynb_checkpoints
-notebooks/ .ipynb_checkpoints
+# notebooks/*.ipynb_checkpoints
 */DS_Store
 */.ipynb_checkpoints
 
